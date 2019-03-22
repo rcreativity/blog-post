@@ -1,3 +1,3 @@
 Simple React blog display app
 
-[Demo link](blog-posts.now.sh)
+[Demo link](https://blog-posts.now.sh/)
